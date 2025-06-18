@@ -4,9 +4,7 @@
 #include <iomanip>
 #include <vector>
 #include <algorithm>
-#include <random>
 #include <fstream>
-#include <sstream>
 #include <numeric>
 
 // Función para imprimir un separador elegante
